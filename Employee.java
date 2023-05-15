@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-// Create an Employee Class
+// Create an Employee Class   
+// by sushil joshi
+
 public class Employee {
     private int EmpId;
     private String Name;
