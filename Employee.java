@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 // Create an Employee Class   
 // by sushil joshi
+// this line would create conflict
 
 public class Employee {
     private int EmpId;
