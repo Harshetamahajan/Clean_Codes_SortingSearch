@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Employee {
     private int EmpId;
     private String Name;
-    private int Salary;
+    private int Salary2;
 
     public Employee(int empId, String name, int salary) {
         this.EmpId = empId;
